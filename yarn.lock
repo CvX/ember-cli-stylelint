@@ -2254,10 +2254,10 @@ broccoli-stew@^2.1.0:
     symlink-or-copy "^1.2.0"
     walk-sync "^0.3.3"
 
-broccoli-stylelint@^3.0.0:
-  version "3.0.0"
-  resolved "https://registry.yarnpkg.com/broccoli-stylelint/-/broccoli-stylelint-3.0.0.tgz#6fec906f794959f2e6b84c02f8fcb57d3bb58bef"
-  integrity sha512-NoVx/V6eSFsxzTlFX2w20Uf8m4lDk9T+zj/frmWaMy/xKFEOj8wYu0UnP6w99sYKKJPmRXeJv286SnN20+GgoA==
+broccoli-stylelint@^3.0.1:
+  version "3.0.2"
+  resolved "https://registry.yarnpkg.com/broccoli-stylelint/-/broccoli-stylelint-3.0.2.tgz#d42a00e39c28fe9c61cadb61f56f7c8df07b4018"
+  integrity sha512-bkUaBiTe0eIGBbx/GPGMJb19sx1QOdl2uTBac6Hj6jNgeWrcWKtRHv1x0cvPgOKVOeAw0k5Ri92LoIbHC3V7nw==
   dependencies:
     aot-test-generators "^0.1.0"
     broccoli-concat "^3.2.2"
@@ -3763,9 +3763,9 @@ escape-string-regexp@1.0.5, escape-string-regexp@^1.0.2, escape-string-regexp@^1
   resolved "https://registry.yarnpkg.com/escape-string-regexp/-/escape-string-regexp-1.0.5.tgz#1b61c0562190a8dff6ae3bb2cf0200ca130b86d4"
 
 eslint-plugin-ember@^6.4.1:
-  version "6.6.0"
-  resolved "https://registry.yarnpkg.com/eslint-plugin-ember/-/eslint-plugin-ember-6.6.0.tgz#fa64f0e9fbbe14ae44478b5fa3890fb74d720e5e"
-  integrity sha512-vqRAyGMtuohMe+cnxiPYIF73gC2Rlei0GX/TAAAIXIJH8E98TFQkOHAhzF6u/6l6W5XRVuTKOlXyPJzRY+kJwQ==
+  version "6.7.1"
+  resolved "https://registry.yarnpkg.com/eslint-plugin-ember/-/eslint-plugin-ember-6.7.1.tgz#be11e3b9b8f38227b81d90b11792a395322a9b4f"
+  integrity sha512-5qzd/5zjXRVlyWpDcRRaIdl6yAHLrUCUyNE71pnk3Egs/erqQazyQHjKKToIWjTA1a7ba/WEC72tJ8HbLsevhA==
   dependencies:
     ember-rfc176-data "^0.3.9"
     snake-case "^2.1.0"
